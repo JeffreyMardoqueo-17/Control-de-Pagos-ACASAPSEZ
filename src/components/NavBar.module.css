@@ -1,0 +1,8 @@
+.navbar {
+  display: flex; /* Utiliza flexbox para alinear elementos */
+  align-items: center; /* Centra verticalmente el contenido */
+  padding: 10px; /* Agrega espacio interno para el contenido del Navbar */
+  background-color: #333; /* Color de fondo del Navbar (puedes personalizarlo) */
+  color: #7c0202; /* Color de texto (puedes personalizarlo) */
+  justify-content: flex-start; /* Alinea el contenido a la izquierda */
+}
